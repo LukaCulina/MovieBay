@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7BMovieBay%7D/static/css/main.c6d131ff.css",
+    "main.js": "/%7BMovieBay%7D/static/js/main.4728a592.js",
+    "static/media/search.svg": "/%7BMovieBay%7D/static/media/search.15505c8ba141dedae17888fa8a0f0312.svg",
+    "index.html": "/%7BMovieBay%7D/index.html",
+    "main.c6d131ff.css.map": "/%7BMovieBay%7D/static/css/main.c6d131ff.css.map",
+    "main.4728a592.js.map": "/%7BMovieBay%7D/static/js/main.4728a592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d131ff.css",
+    "static/js/main.4728a592.js"
+  ]
+}
