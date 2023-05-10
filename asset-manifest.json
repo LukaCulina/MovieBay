@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MovieBay/static/css/main.c6d131ff.css",
-    "main.js": "/MovieBay/static/js/main.e27361b7.js",
+    "main.js": "/MovieBay/static/js/main.5f64af61.js",
     "static/media/search.svg": "/MovieBay/static/media/search.15505c8ba141dedae17888fa8a0f0312.svg",
     "index.html": "/MovieBay/index.html",
     "main.c6d131ff.css.map": "/MovieBay/static/css/main.c6d131ff.css.map",
-    "main.e27361b7.js.map": "/MovieBay/static/js/main.e27361b7.js.map"
+    "main.5f64af61.js.map": "/MovieBay/static/js/main.5f64af61.js.map"
   },
   "entrypoints": [
     "static/css/main.c6d131ff.css",
-    "static/js/main.e27361b7.js"
+    "static/js/main.5f64af61.js"
   ]
 }
